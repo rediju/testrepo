@@ -1,2 +1,1 @@
-# testrepo1
-for testin github public
+for testing github public
